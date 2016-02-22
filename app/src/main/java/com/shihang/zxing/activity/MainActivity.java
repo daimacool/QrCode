@@ -22,6 +22,7 @@ import com.google.zxing.WriterException;
 import com.google.zxing.common.BitMatrix;
 import com.shihang.zxing.R;
 
+
 /**
  * @author J!nl!n
  * @date 2015年1月14日 下午2:21:11
